@@ -8,6 +8,8 @@ public class Demos {
 		System.out.println("siva");
 		System.out.println("Ranganathan");
 		System.out.println("sundari");
+		System.out.println("2");
+		System.out.println("3");
 	}
 
 }
