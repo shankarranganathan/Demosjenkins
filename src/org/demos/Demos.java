@@ -9,6 +9,10 @@ public class Demos {
 		System.out.println("Ranganathan");
 		System.out.println("sundari");
 		System.out.println("1");
+		System.out.println("2");
+		System.out.println("3");
+
+		
 	}
 
 }
